@@ -1,0 +1,18 @@
+[
+    {"title": "Скиттлз зеленый", "weight": 38, "price": 1, "id": 1, "imgSrc": "img/products/1.png"},
+    {"title": "Батончик Milky Way 1+1", "weight": 52, "price": 1, "id": 2, "imgSrc": "img/products/2.png"},
+    {"title": "Батончик Mars Max", "weight": 81, "price": 1, "id": 3, "imgSrc": "img/products/3.png"},
+    {"title": "Конфета Mentos Фрукты", "weight": 37, "price": 1, "id": 4, "imgSrc": "img/products/4.png"},
+    {"title": "Конфета Tic tac Мята", "weight": 16, "price": 1, "id": 5, "imgSrc": "img/products/5.png"},
+    {"title": "Леденцы Halls Mini Minints Цитрусовый Пунш", "weight": 12.5, "price": 1, "id": 6, "imgSrc": "img/products/6.png"},
+    {"title": "Леденцы Halls Mini Minints Мята", "weight": 12.5, "price": 1, "id": 7, "imgSrc": "img/products/7.png"},
+    {"title": "Леденцы Halls Mini Minints Арбуз", "weight": 12.5, "price": 1, "id": 8, "imgSrc": "img/products/8.png"},
+    {"title": "Жвачка Juicy Frutti", "weight": 13, "price": 1, "id": 9, "imgSrc": "img/products/9.png"},
+    {"title": "Жвачка Orbit Mini", "weight": 10.2, "price": 1, "id": 10, "imgSrc": "img/products/10.png"},
+    {"title": "Леденец Chupa Chups Frutella", "weight": 10, "price": 1, "id": 11, "imgSrc": "img/products/11.png"},
+    {"title": "Леденцы Rondo Мята", "weight": 30, "price": 1, "id": 12, "imgSrc": "img/products/12.png"},
+    {"title": "Чипсы Lays Лосось в сливочном соусе", "weight": 150, "price": 1, "id": 13, "imgSrc": "img/products/13.png"},
+    {"title": "Чипсы Lays Ребрышки гриль", "weight": 150, "price": 1, "id": 14, "imgSrc": "img/products/14.png"},
+    {"title": "Доширак Кимчи", "weight": 90, "price": 1, "id": 15, "imgSrc": "img/products/15.png"},
+    {"title": "Доширак Говядина", "weight": 90, "price": 1, "id": 16, "imgSrc": "img/products/16.png"}
+]
